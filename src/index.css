@@ -1,0 +1,11 @@
+@import '~antd/dist/antd.css';
+
+.card{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin: 50px;
+}
+.card div{
+    margin-right: 20px;
+}
